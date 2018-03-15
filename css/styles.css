@@ -61,7 +61,7 @@ section p{
 	padding: 0 20px;
 	line-height: 2;
 }
-/* Hierbei handelt es sich um die unsortierten Listen - Bsp. Bilder auf Home*/
+
 ul.grid{
 	width: 100%;
 	display: flex;
