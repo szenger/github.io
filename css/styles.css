@@ -13,20 +13,15 @@ html{
 	font: normal 16px sans-serif;
 	color: #555;
 }
+
+
 /*
-a{
-	text-decoration: none;
-	cursor: pointer;
-
-	opacity: 0.9;
-}
-*/
-
-
 
 a:hover{
 	opacity: 1;
 }
+
+*/
 
 a.btn{
 	color: #fff;
