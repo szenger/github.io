@@ -17,12 +17,15 @@ ul, nav{
 	list-style: none;
 }
 
-a{
+/*a{
 	text-decoration: none;
 	cursor: pointer;
 
 	opacity: 0.9;
 }
+*/
+
+
 
 a:hover{
 	opacity: 1;
