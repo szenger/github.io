@@ -61,14 +61,14 @@ section p{
 	padding: 0 20px;
 	line-height: 2;
 }
-
+/*
 ul.grid{
 	width: 100%;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
 }
-
+*/
 header{
 	z-index: 10;
 	width: 100%;
