@@ -1,23 +1,23 @@
 /*---------------------------------------------------
  	Projekt IET Technikerschule CSS Stylesheet
 ----------------------------------------------------*/
-/*
+
 *{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 }
-/*
+
 html{
 	font: normal 16px sans-serif;
 	color: #555;
 }
 
-/*ul, nav{
+ul, nav{
 	list-style: none;
 }
 
-/*a{
+a{
 	text-decoration: none;
 	cursor: pointer;
 
@@ -39,7 +39,7 @@ a.btn{
 	font-weight: 800;
 	text-align: center;
 }
-*/
+
 hr{
 	width: 150px;
 	height: 2px;
