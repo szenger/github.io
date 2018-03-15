@@ -16,13 +16,6 @@ html{
 
 
 /*
-
-a:hover{
-	opacity: 1;
-}
-
-*/
-
 a.btn{
 	color: #fff;
 	border-radius: 4px;
@@ -31,7 +24,7 @@ a.btn{
 	font-weight: 800;
 	text-align: center;
 }
-
+*/
 hr{
 	width: 150px;
 	height: 2px;
