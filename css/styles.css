@@ -273,7 +273,7 @@ footer p a{
 }
 .flex-container {
   display: flex;
-  background-color: DodgerBlue;
+  
   flex-wrap: wrap; 
 }
 
