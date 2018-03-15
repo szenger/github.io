@@ -68,17 +68,13 @@ ul.grid{
 	flex-wrap: wrap;
 	justify-content: center;
 }
-/*
-header{
-	z-index: 10;
-	width: 100%;
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	color: #fff;
-	padding: 35px 100px 0;
+
+header
+{
+	
+	
 }
-*/
+
 header nav{
 	display: flex;
 }
@@ -204,6 +200,6 @@ footer p a{
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  flex-direction: column;	  
+    
 }
 
