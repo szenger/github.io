@@ -14,12 +14,14 @@ html{
 	color: #555;
 }
 /* Entfernt die Punkte bei listen*/ 
-ul, nav{
+ul, nav
+{
 	list-style: none;
-
+}
 
 /* hiermit wird die Trennlinie erstellt*/
-hr{
+hr
+{
 	width: 150px;
 	height: 2px;
 	background-color: red;
