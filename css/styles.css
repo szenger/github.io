@@ -15,22 +15,12 @@ html{
 }
 
 
-/*
-a.btn{
-	color: #fff;
-	border-radius: 4px;
-	text-transform: uppercase;
-	background-color: #2196F3;
-	font-weight: 800;
-	text-align: center;
-}
-*/
 hr{
 	width: 150px;
 	height: 2px;
-	background-color: #2196F3;
+	background-color: red;
 	border: 0;
-	margin-bottom: 80px;
+	margin-bottom: 20px;
 }
 
 section{
