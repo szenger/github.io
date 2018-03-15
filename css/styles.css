@@ -7,12 +7,13 @@
 	padding: 0;
 	box-sizing: border-box;
 }
-/*
+
+/* hiermit wird die Grundeinstellungen für die gesamte Seite eingestellt*/
 html{
 	font: normal 16px sans-serif;
 	color: #555;
 }
-*/
+
 ul, nav{
 	list-style: none;
 }
