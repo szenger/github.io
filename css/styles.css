@@ -34,8 +34,14 @@ section{
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	padding-top: 125px;
+	
 }
+section.hero
+{
+    padding-top: 125px;
+}
+
+
 
 @media (max-width: 1000px){
 
