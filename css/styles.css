@@ -206,7 +206,7 @@ footer p a{
 
 }
 .flex-container {
-	/*z-index: 10;*/
+	font-style: bolt;
 	width: 100%;
 	display: flex;
 	justify-content: space-between;
