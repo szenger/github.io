@@ -29,7 +29,7 @@ hr
 	margin-bottom: 20px;
 	margin-top: 20px;
 }
-/* Hiermit werden die inhalte in allen Sektionen nicht abosulte Positionierung*/
+/* Hiermit werden die inhalte in allen Sektionen nicht abosulte Positionierung -Damit die unterschiedlichen Sektionen nicht nebeneinandner stehen*/
 section{
 	display: flex;
 	flex-direction: column;
@@ -74,14 +74,14 @@ section p{
 	padding: 0 20px;
 	line-height: 2;
 }
-
+/* Ich nehme an das kann weg
 ul.grid{
 	width: 100%;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
 }
-
+*/
 header
 {
 	z-index: 10;
@@ -166,7 +166,7 @@ header nav li{
 	flex-basis: 60%;
 }
 
-
+/*
 @media (max-width: 1000px){
 
 	.our-work .grid li.small,
@@ -175,6 +175,7 @@ header nav li{
 	}
 
 }
+*/
 
 /*----------------------
  	Features Section
