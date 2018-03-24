@@ -76,8 +76,8 @@ header
 	width: 100%;
 	display: flex;
 	justify-content: space-between;
-	align-items: right;
-	
+	align-items: center;
+	flex-wrap: wrap;
 	color: #fff;
 	padding: 35px 100px 0;
 	
