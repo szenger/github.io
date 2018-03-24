@@ -192,6 +192,7 @@ footer p a{
 }
 .flex-container {
 	font-style: bolt;
+	font-size: 50vw;
 	width: 100%;
 	display: flex;
 	justify-content: space-between;
