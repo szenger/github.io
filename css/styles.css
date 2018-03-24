@@ -75,7 +75,7 @@ header
 	
 	width: 100%;
 	display: flex;
-	justify-content: space-between;
+	justify-content: center;
 	align-items: center;
 	flex-wrap: wrap;
 	color: #fff;
@@ -85,15 +85,16 @@ header
 
 header nav{
 	display: flex;
-	flex-wrap: wrap;
-	flex-basis: 90%;
+	
+	/*flex-basis: 20% ; */
 }
-
+/*
 header nav li{
-	margin: 0 50px;
+	margin: 0 20px;
+	
 	
 }
-
+*/
 @media (max-width: 1000px){
 	header{
 		padding: 20px 50px;
