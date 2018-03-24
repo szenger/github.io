@@ -77,6 +77,7 @@ header
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+	felx-wrap: wrap;
 	color: #fff;
 	padding: 35px 100px 0;
 	
@@ -89,7 +90,7 @@ header nav{
 
 header nav li{
 	margin: 0 15px;
-	text-align: right;
+	
 }
 
 @media (max-width: 1000px){
