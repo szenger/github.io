@@ -83,16 +83,11 @@ header
 	
 }
 /*
-header nav{
-	display: flex;
-	
-}
-*/
 header nav li{
 	margin: 0 15px;
 	
 }
-
+*/
 @media (max-width: 1000px){
 	header{
 		padding: 20px 50px;
