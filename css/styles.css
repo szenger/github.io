@@ -76,7 +76,7 @@ header
 	width: 100%;
 	display: flex;
 	justify-content: space-between;
-	align-items: center;
+	align-items: right;
 	
 	color: #fff;
 	padding: 35px 100px 0;
