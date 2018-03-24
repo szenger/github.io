@@ -29,10 +29,10 @@ hr
 	margin-bottom: 20px;
 	margin-top: 20px;
 }
-
+/* Hiermit werden die inhalte in allen Sektionen nicht abosulte Positionierung*/
 section{
 	display: flex;
-	flex-direction: column;
+	flex-direction: raw;
 	align-items: center;
 	
 }
