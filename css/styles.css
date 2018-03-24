@@ -1,13 +1,8 @@
 /*---------------------------------------------------
  	Projekt IET Technikerschule CSS Stylesheet
 ----------------------------------------------------*/
-/*
-*{
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-}
-*/
+
+
 /* hiermit wird die Grundeinstellungen für die gesamte Seite eingestellt*/
 html{
 	font: normal 16px sans-serif;
