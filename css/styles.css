@@ -83,12 +83,12 @@ header
 	padding: 35px 100px 0;
 	
 }
-/*
+
 header nav li{
 	margin: 0 15px;
 	
 }
-*/
+
 @media (max-width: 1000px){
 	header{
 		padding: 20px 50px;
