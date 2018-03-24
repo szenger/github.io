@@ -84,6 +84,7 @@ header
 
 header nav{
 	display: flex;
+	align-items: right;
 }
 
 header nav li{
