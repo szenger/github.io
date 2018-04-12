@@ -31,33 +31,43 @@ section{
 	align-items: center;
 	
 }
+
 section.hero
 {
     padding-top: 90px;
 }
 
 
+/* hier werden die Einstellungen vorgenommen für max. 600px Dev"*/
+@media (max-width: 600px)
+{
 
-@media (max-width: 1000px){
-
-	section{
-		padding: 100px 50px;
+	section
+	{
+		padding: 10px 30px;
+		font-size: 10px;
+	}
+	section.hero h1
+	{
+		font-size: 35px;
+	}
+	section.hero h3
+	{
+		font-size: 25px;
+	}
+	header{
+		flex-direction: column;		
 	}
 
-}
-
-@media (max-width: 600px){
-
-	section{
-		padding: 80px 30px;
+	header h2{
+		margin-bottom: 15px;
 	}
-
 }
 
 section h3.title{
 	color: #414a4f;
 	text-transform: capitalize; 
-	font: bold 32px 'Open Sans', sans-serif;
+	font: bold  'Open Sans', sans-serif;
 	margin-bottom: 35px;
 	text-align: center;
 }
@@ -87,25 +97,23 @@ header nav li
 	
 	
 }
-/*-------------------------------------------*/
+/*-------------------------------------------*/ /*Hier können spezielle Einstellungen für max 1000pixel rein*/
 @media (max-width: 1000px){
-	header{
+	header
+	{
 		padding: 20px 50px;
 	}
+	
+	section.hero h3
+	{
+		font-size: 35px;
+	}
+	
 }
 
-/*-------------------------------------------*/
-@media (max-width: 700px)
-{
-	header{
-		flex-direction: column;		
-	}
 
-	header h2{
-		margin-bottom: 15px;
-	}
-}
 /*-------------------------------------------*/
+
 .hero h1{
 	font: bold 60px 'Open Sans', sans-serif;
 	margin-bottom: 15px;
@@ -116,52 +124,7 @@ header nav li
 	margin-bottom: 40px;
 }
 /*-------------------------------------------*/
-@media (max-width: 800px){
 
-	.hero{
-		min-height: 600px;
-	}
-
-	.hero h1{
-		font-size: 48px;
-	}
-
-	.hero h3{
-		font-size: 24px;
-	}
-
-	.hero a.btn{
-		padding: 15px 40px;
-	}
-
-}
-/*-------------------------------------------*/
-
-
-
-
-/*-------------
- 	Footer
--------------*/
-
-footer p{
-	text-transform: uppercase;
-	font-size: 14px;
-	color: rgba(255,255,255,0.6);
-	margin-bottom: 10px;
-}
-
-footer p a{
-	color: #fff;
-}
-
-@media (max-width: 700px){
-
-	footer{
-		padding: 80px 15px;
-	}
-
-}
 .flex-container {
 	
 	width: 100%;
