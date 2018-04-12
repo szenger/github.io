@@ -85,6 +85,8 @@ header nav li
 	section.our-work h3
 	{
 		font-size: 40px;
+		text-align:center;
+		font-style: italic;
 	}
 
 /*-------------------------------------------*/
@@ -143,6 +145,7 @@ header nav li
 	section.our-work h3
 	{
 		font-size: 25px;
+		
 	}
 
 	
