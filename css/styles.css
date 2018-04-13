@@ -3,12 +3,19 @@
 ----------------------------------------------------*/
 
 
-/* hiermit wird die Grundeinstellungen für die gesamte Seite eingestellt*/
+/* Hiermit wird die Grundeinstellung für die gesamte Seite konfiguriert*/
 html
 {
 	font: normal 16px sans-serif;
 	color: #555;
 }
+/*-------------------------------------------*/
+/*Hintergrund für die Webseite*/
+body 
+{
+    background-image: url("Grau_hintergrund.jpg");
+}
+
 /*-------------------------------------------*/
 /* Entfernt die Punkte bei Listen*/ 
 ul, nav
