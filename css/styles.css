@@ -64,6 +64,7 @@ section p
 }
 /*-------------------------------------------*/
 /*Hier werden die Einstellungen für die Navigationspunkte gesetzt*/
+
 header nav
 {
 	
@@ -71,8 +72,8 @@ header nav
 	justify-content: space-between;
 	align-items: center;
 	flex-wrap: wrap;
-	flex-basis: 20% ; 
-	padding: 35px 100px 0;
+	
+	padding-top: 25px /*Hier wird die Positionierung der Navigationspunkte realisiert*/
 }
 /*-------------------------------------------*/
 /* hier mit wird der abstand zwischen den Punkten im Header geregelt*/
