@@ -28,7 +28,7 @@ hr
 {
 	width: 150px;
 	height: 2px;
-	background-color: red;
+	background-color: #960000;
 	border: 0;
 	margin-bottom: 20px;
 	margin-top: 20px;
@@ -117,7 +117,7 @@ header nav li
 
 .our-work p.problem
 {
-	color: red;
+	color: #960000;
 	
 }
 .our-work p.lösung
@@ -131,7 +131,7 @@ header nav li
 {
 	font: bold 60px 'Open Sans', sans-serif;
 	margin-bottom: 15px;
-	color:red;
+	color:#960000;
 	
 }
 	
