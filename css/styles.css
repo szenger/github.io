@@ -88,7 +88,9 @@ header nav
 	align-items: center;
 	flex-wrap: wrap;
 	
-	padding-top: 25px /*Hier wird die Positionierung der Navigationspunkte realisiert*/
+	padding-top: 25px; /*Hier wird die Positionierung der Navigationspunkte realisiert*/
+	padding-right:50px;
+	padding-left:50px;
 }
 /*-------------------------------------------*/
 
