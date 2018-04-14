@@ -87,10 +87,10 @@ header nav
 	justify-content: space-between;
 	align-items: center;
 	flex-wrap: wrap;
-	
-	padding-top: 25px; /*Hier wird die Positionierung der Navigationspunkte realisiert*/
-	padding-right:100px;
-	padding-left:100px;
+	/*Hier wird die Positionierung der Navigationspunkte realisiert*/
+	padding-top: 25px; 
+	padding-right:100px; 
+	padding-left:100px; 
 }
 /*-------------------------------------------*/
 
